@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Composable Cards</string>
+    <string name="t1">Text composable</string>
+    <string name="e1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="t2">Image composable</string>
+    <string name="e2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="t3">Row composable</string>
+    <string name="e3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="t4">Column composable</string>
+    <string name="e4">A layout composable that places its children in a vertical sequence.</string>
+</resources>
